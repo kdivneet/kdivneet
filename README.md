@@ -23,7 +23,7 @@ My focus lies in exploring innovative approaches where data-driven intelligence 
 
 ---
 
-## 🚀 Building Things That Matter
+## 🚀 Projects
 
 ### 🧩 Decoding Crosswords — Semantic Wordplay using NLP
 
