@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kdivneet/kdivneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Divneet Kaur
 
-Here are some ideas to get you started:
+### AI • Cybersecurity • Research • Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Turning research into intelligent software systems."*
+
+🎓 Gold Medalist | CGPA 9.76  
+🏆 GATE 2026 CS Qualified (Score 508 | AIR 7059)  
+🔬 Research Intern at CSIR-CSIO  
+🛡️ SOC Analyst Intern  
+📚 Published Author
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🤖 Passionate about AI, NLP and Intelligent Assistants
+- 🔐 Interested in Cybersecurity and Security Analytics
+- 🌐 Building Full-Stack Applications with modern technologies
+- 📖 Researching practical AI solutions for real-world problems
+- 💡 Love turning ideas into deployable software
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • C++ • JavaScript • HTML • CSS
+
+**Frameworks & Tools**
+React • Flask • MongoDB • Git • VS Code
+
+**AI & ML**
+Scikit-learn • Pandas • NumPy • Matplotlib • Hugging Face
+
+**Cybersecurity**
+Rapid7 • SentinelOne • Avanan
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/divneet
+
