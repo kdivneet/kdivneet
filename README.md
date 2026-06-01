@@ -6,7 +6,7 @@
 
 🏆 **GATE 2026 Computer Science Qualified** — 97 Percentile | Score: **508** 
 
-🎓 **Gold Medalist** | B.Tech CSE | CGPA: **9.76**
+🎓 **Gold Medalist** | B.Tech CSE (GNDEC) | CGPA: **9.76**
 
 🔬 Research Intern @ **CSIR-CSIO**
 
