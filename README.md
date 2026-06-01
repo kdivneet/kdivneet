@@ -4,7 +4,7 @@
 
 🚀 Building intelligent systems that bridge Artificial Intelligence, Cybersecurity, and Real-World Applications.
 
-🏆 **GATE 2026 Computer Science Qualified** — Score: **508** | AIR: **7059**
+🏆 **GATE 2026 Computer Science Qualified** — 97 Percentile | Score: **508** 
 
 🎓 **Gold Medalist** | B.Tech CSE | CGPA: **9.76**
 
@@ -93,7 +93,7 @@ My focus lies in exploring innovative approaches where data-driven intelligence 
 ## 🏆 Achievements
 
 * 🥇 Gold Medalist in Computer Science Engineering
-* 🏆 GATE 2026 CS Qualified (Score: 508 | AIR: 7059)
+* 🏆 GATE 2026 CS Qualified (Score: 508 | Percentile: 97)
 * 📚 Published Book Chapter: *Cybersecurity in Metaverse*
 * 📚 Published Book Chapter: *ML for Internet of Medical Things (IoMT) Applications*
 * 🎤 Conference Presentation on IIoT Attack Classification
