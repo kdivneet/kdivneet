@@ -127,7 +127,7 @@ My focus lies in exploring innovative approaches where data-driven intelligence 
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** https://linkedin.com/in/divneet
+💼 **LinkedIn:** [https://linkedin.com/in/divneet](https://www.linkedin.com/in/divneet-kaur-058976285/)
 
 🐙 **GitHub:** https://github.com/kdivneet
 
